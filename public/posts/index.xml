@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Matias Lin</title>
+    <link>http://matiaslin.github.io/posts/</link>
+    <description>Recent content in Posts on Matias Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Nov 2018 15:20:12 -0800</lastBuildDate>
+    
+	<atom:link href="http://matiaslin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://matiaslin.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 24 Nov 2018 15:20:12 -0800</pubDate>
+      
+      <guid>http://matiaslin.github.io/posts/my-first-post/</guid>
+      <description>This page is about me.</description>
+    </item>
+    
+  </channel>
+</rss>
