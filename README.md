@@ -1,3 +1,3 @@
-This is my personal site!
+This is my Personal Site!
 
 matiaslin.github.io
