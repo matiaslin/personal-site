@@ -40,7 +40,8 @@ a{
 }
 
 .main-content{
-  position: relative;
+  position: sticky;
+  // position: relative;
   overflow: visible;
   width: 60%;
   max-width: 1200px;
